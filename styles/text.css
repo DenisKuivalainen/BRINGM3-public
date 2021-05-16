@@ -1,0 +1,16 @@
+.MuiTypography-body1, .MuiTypography-body2, .MuiTypography-h6, .MuiTypography-h5 {
+    text-align: justify;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.BrainhubCarousel__container {
+    width: 95%
+}
+
+.MuiSvgIcon-root {
+    width: auto !important;
+}

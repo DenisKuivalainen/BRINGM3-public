@@ -1,0 +1,43 @@
+[
+    {
+        "name" : "Default",
+        "light" : ["#2196f3", "#f50057", "#fff", "#fff", "#ff1744", "#fff", "#f0f0f0"],
+        "dark" : ["#2196f3", "#f50057", "#fff", "#fff", "#ff1744", "#0f0f0f", "#1f1f1f"]
+    },
+
+    {
+        "name" : "Devided Sea",
+        "light" : ["#29A0B1", "#167D7F", null, null, null, null, "#d8e1e3"],
+        "dark" : ["#98D7C2", "#DDFFE7", "#001413", "#001413", null, "#001413", "#0c2e33"]
+    },
+
+    {
+        "name" : "Revolving Doors",
+        "light" : ["#255c58", "#cc4758", null, null, "#ffa21f", "#ebf5f0", "#d3e0da"],
+        "dark" : ["#FCB5AC", "#B5E5CF", "#141212", "#141212", "#ffa21f", "#141212", "#2e2324"]
+    },
+
+    {
+        "name" : "Fruit Bubblegum",
+        "light" : ["#C26DBC", "#308a8b", null, null, "#ff0dff", null, "#d5e2e3"],
+        "dark" : ["#EEB5EB", "#C8F4F9", "#010304", "#000", "#ff0dff", "#010304", "#0A2229"]
+    },
+
+    {
+        "name" : "Lavender Dreams",
+        "light" : ["#613659", "#211522", null, null, "#1f6dff", null, "#c9c1c6"],
+        "dark" : ["#C197D2", "#D3B1C2", "#211522", "#211522", "#1f6dff", null, "#211522"]
+    },
+
+    {
+        "name" : "Midnight Waters",
+        "light" : ["#52688F", "#7391C8", null, null, null, null, "#E3E7F1"],
+        "dark" : ["#BDC6D9", "#E3E7F1", "#090c12", "#090c12", null, "#090c12", "#172030"]
+    },
+
+    {
+        "name" : "Infinity Empire",
+        "light" : ["#5868b5", "#0ac9b5", null, null, "#ef0652", "#D0DCFF"],
+        "dark" : ["#ef0652", "#553475", null, null, "#EACA43", "#030009", "#09060F"]
+    }
+]

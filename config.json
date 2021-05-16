@@ -1,0 +1,31 @@
+{
+    "db": "########://##############:################################################################@###-##-###-###-##.##-####-#.#######.#########.###:####/##############",
+    "links" : {
+        "git" : "#####://######.###/################",
+        "mit" : "#"
+    },
+    "redirects" : {
+        "any" : [
+            "",
+            "/",
+            "/auth/password",
+            "/auth/register",
+            "/auth/success"
+        ],
+        "isHead" : [
+            "/app/settings/admin/",
+            "/app/settings/admin/add",
+            "/app/settings/admin/edit"
+        ],
+        "canAdd" : [
+            "/app/add"
+        ],
+        "settings" : [
+            "/auth/login"
+        ]
+    },
+    "authCookies" : [
+        "theme",
+        "pallete"
+    ]
+}
